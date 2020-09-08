@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e30b"],{d504:function(t,e,n){"use strict";n.r(e);var r=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("Divider",[t._v("点击上方标签可以体验不同功能，点击下方按钮可以查看相关文章")]),n("Button",{attrs:{to:"https://blog.ops-coffee.cn/bpmn",target:"_blank",type:"primary"}},[t._v("点击按钮直达文章")])],1)},a=[],c=n("9ca4"),o={},l=Object(c["a"])(o,r,a,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d21e30b.ad8d8ba0.js.map
